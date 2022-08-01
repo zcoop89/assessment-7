@@ -1,0 +1,3 @@
+Results for the extraLargeArray
+insert 766.1165 ms
+append 1.900625 ms
